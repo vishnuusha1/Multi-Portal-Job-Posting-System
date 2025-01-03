@@ -22,8 +22,8 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository** (or create a new project directory):
     ```bash
-    git clone <repository_url>
-    cd my-express-sequelize-project
+    git clone https://github.com/vishnuusha1/Multi-Portal-Job-Posting-System.git
+    cd Multi-Portal-Job-Posting-System
     ```
 
 2. **Install dependencies**:
