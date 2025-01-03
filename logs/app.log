@@ -1,0 +1,79 @@
+2024-12-31T13:09:58.394Z [info]: API is working.....
+2025-01-01T09:16:58.888Z [error]: model.create is not a function
+2025-01-01T09:16:58.888Z [error]: model.create is not a function
+2025-01-01T09:17:10.211Z [info]: model.create is not a function
+2025-01-01T09:17:10.211Z [info]: model.create is not a function
+2025-01-01T09:17:22.608Z [info]: model.create is not a function
+2025-01-01T09:17:22.608Z [info]: model.create is not a function
+2025-01-01T09:17:59.488Z [info]: model.create is not a function
+2025-01-01T09:17:59.488Z [info]: model.create is not a function
+2025-01-01T09:18:28.893Z [info]: model.create is not a function
+2025-01-01T09:18:28.893Z [info]: model.create is not a function
+2025-01-01T09:23:15.296Z [info]: model.create is not a function
+2025-01-01T09:23:15.296Z [info]: model.create is not a function
+2025-01-01T09:23:57.255Z [error]: model.create is not a function
+2025-01-01T09:24:20.380Z [info]: model.create is not a function
+2025-01-01T09:26:39.213Z [error]: model.create is not a function
+2025-01-01T09:58:03.304Z [error]: buildQueryOptions is not defined
+2025-01-01T09:58:52.679Z [error]: portalService.findAndCountAll is not a function
+2025-01-02T02:35:07.064Z [error]: notNull Violation: JobAd.file cannot be null
+2025-01-02T03:11:41.740Z [error]: Invalid column name 'name'.
+2025-01-02T03:11:41.743Z [error]: Invalid column name 'name'.
+2025-01-02T03:14:23.938Z [error]: include.model.getTableName is not a function
+2025-01-02T03:14:23.940Z [error]: include.model.getTableName is not a function
+2025-01-02T03:14:49.374Z [error]: Invalid column name 'id'.
+2025-01-02T03:14:49.377Z [error]: Invalid column name 'id'.
+2025-01-02T04:32:26.431Z [error]: JobAd is associated to Portal using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+2025-01-02T04:32:26.437Z [error]: JobAd is associated to Portal using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+2025-01-02T04:36:26.128Z [error]: JobAd is associated to Portal using an alias. You've included an alias (JobAds), but it does not match the alias(es) defined in your association (jobAds).
+2025-01-02T04:36:26.131Z [error]: JobAd is associated to Portal using an alias. You've included an alias (JobAds), but it does not match the alias(es) defined in your association (jobAds).
+2025-01-02T04:37:46.838Z [error]: JobAd is associated to Portal using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+2025-01-02T04:37:46.840Z [error]: JobAd is associated to Portal using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+2025-01-02T04:40:19.629Z [error]: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-02T04:40:19.631Z [error]: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-02T04:41:09.895Z [error]: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-02T04:41:09.897Z [error]: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-02T04:41:56.389Z [error]: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-02T04:41:56.392Z [error]: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-02T04:47:46.491Z [error]: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-02T04:47:46.493Z [error]: Include unexpected. Element has to be either a Model, an Association or an object.
+2025-01-02T04:53:42.573Z [error]: 
+2025-01-02T04:53:42.576Z [error]: 
+2025-01-02T04:54:37.969Z [error]: 
+2025-01-02T04:54:37.972Z [error]: 
+2025-01-02T04:57:35.982Z [error]: Ambiguous column name 'portalId'.
+2025-01-02T04:57:35.985Z [error]: Ambiguous column name 'portalId'.
+2025-01-02T05:17:33.411Z [error]: Ambiguous column name 'portalId'.
+2025-01-02T05:17:33.417Z [error]: Ambiguous column name 'portalId'.
+2025-01-02T05:18:40.035Z [error]: 
+2025-01-02T05:18:40.037Z [error]: 
+2025-01-02T05:19:34.133Z [error]: Ambiguous column name 'portalId'.
+2025-01-02T05:19:34.135Z [error]: Ambiguous column name 'portalId'.
+2025-01-02T05:22:04.816Z [error]: 
+2025-01-02T05:22:04.818Z [error]: 
+2025-01-02T05:22:34.903Z [error]: 
+2025-01-02T05:24:16.053Z [error]: Column 'Portals.name' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause.
+2025-01-02T05:24:45.328Z [error]: Ambiguous column name 'portalId'.
+2025-01-02T05:28:45.867Z [error]: 
+2025-01-02T07:41:02.119Z [error]: fn is not defined
+2025-01-02T07:42:24.572Z [error]: Invalid column name 'period'.
+2025-01-02T07:49:27.247Z [error]: 'DATE_FORMAT' is not a recognized built-in function name.
+2025-01-02T07:50:34.059Z [error]: 'DATE_FORMAT' is not a recognized built-in function name.
+2025-01-02T08:50:50.749Z [error]: Job is not defined
+2025-01-02T08:51:20.307Z [error]: Sequelize is not defined
+2025-01-02T08:51:59.516Z [error]: Portal is not defined
+2025-01-02T08:52:16.019Z [error]: Op is not defined
+2025-01-02T08:52:35.237Z [error]: Portal is associated to JobAd using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+2025-01-02T08:53:18.830Z [error]: 
+2025-01-02T08:54:05.375Z [error]: 
+2025-01-02T08:54:32.659Z [error]: 
+2025-01-02T08:55:00.830Z [error]: Invalid column name 'id'.
+2025-01-02T09:00:56.047Z [error]: res is not defined
+2025-01-03T02:25:09.793Z [error]: Invalid value { where: { id: 'e317511c-7449-4136-aaf7-e7b253edb215' } }
+2025-01-03T02:39:20.537Z [error]: Invalid value { id: '4d305088-9da8-4e0a-9a92-4079d15f80bc' }
+2025-01-03T02:53:40.387Z [error]: Cannot read properties of undefined (reading 'create')
+2025-01-03T03:04:00.857Z [error]: Cannot read properties of undefined (reading 'create')
+2025-01-03T03:04:44.276Z [error]: Cannot read properties of undefined (reading 'create')
+2025-01-03T03:04:44.279Z [error]: Cannot read properties of undefined (reading 'create')
+2025-01-03T03:05:20.888Z [error]: Cannot read properties of undefined (reading 'create')
+2025-01-03T03:09:36.953Z [error]: dddddd

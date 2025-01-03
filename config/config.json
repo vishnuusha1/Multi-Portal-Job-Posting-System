@@ -1,0 +1,11 @@
+{
+  "development": {
+    "username": "testing",
+    "password": "Test$123..",
+    "database": "personalturm-test",
+    "host": "personalturm-test.database.windows.net",
+    "dialect": "mssql",
+    "port": 1433
+  }
+}
+
