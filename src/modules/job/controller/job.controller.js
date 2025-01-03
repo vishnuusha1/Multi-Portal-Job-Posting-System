@@ -32,7 +32,7 @@ const createJobAd = async (req, res) => {
    return responder.success(newJobAd);
   } catch (error) {
     logger.log(error.message);
-    responder.error();
+    return responder.error();
   }
 };
 
