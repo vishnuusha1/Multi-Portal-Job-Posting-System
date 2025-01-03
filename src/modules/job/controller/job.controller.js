@@ -29,7 +29,7 @@ const createJobAd = async (req, res) => {
       file,
       portalId,
     });
-    responder.success(newJobAd);
+   return responder.success(newJobAd);
   } catch (error) {
     logger.log(error.message);
     responder.error();
@@ -92,10 +92,10 @@ const deleteJobAd = async (req, res) => {
     if (deletedRows === 0) {
       responder.error("JobAd not found", null, 404);
     }
-    responder.success();
+    return responder.success();
   } catch (error) {
     logger.log(error.message);
-    responder.error();
+    return responder.error();
   }
 };
 
@@ -122,10 +122,10 @@ const getAllJobAds = async (req, res) => {
       ...queryOptions,
       include: [{ model: db.Portal, as: "portal", attributes: ["name"] }],
     });
-    responder.success(JobAds);
+    return responder.success(JobAds);
   } catch (error) {
     logger.error(error.message);
-    responder.error();
+    return responder.error();
   }
 };
 
@@ -176,7 +176,7 @@ const getJobAddSummary = async (req, res) => {
     period_end: endDate,
     summary
   };
-  responder.success(results);
+  return responder.success(results);
 };
 
 module.exports = {
