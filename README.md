@@ -7,6 +7,7 @@ This is a REST API system built using Express.js and Sequelize to manage job pos
 - CRUD operations for managing job postings.
 - Database interaction using Sequelize ORM.
 - API documentation using Swagger UI.
+- Cron Job for update the status of jobs that were last updated more than 2 months ago
 # Express.js with Sequelize Setup
 
 This project is a basic setup of an **Express.js** application using **Sequelize** as the ORM for interacting with a MySQL database. Environment variables are stored in a `.env` file for sensitive information such as database credentials.
